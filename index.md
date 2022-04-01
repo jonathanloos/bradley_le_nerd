@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## A look back at your time here 🔭 
 
-You can use the [editor on GitHub](https://github.com/jonathanloos/bradley_le_nerd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### It all started back in July 2021:
+```
+Author: Bradley Leonard <bradley@example.ca>
+Date:   Wed Jul 8 14:31:11 2020 -0400
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    Allow non-FG/SAR taskings to be deleted if squadron managed
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### You've built some pretty cool features🪄:
+```
+Author: Bradley Leonard <bradley@example.ca>
+Date:   Thu Jul 30 12:59:32 2020 -0400
 
-### Jekyll Themes
+    A whole new YFRRRRRR, A new fantastic point of view
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonathanloos/bradley_le_nerd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### And have brought some pretty wicked energy to the team:
+```
+    Cleanup mambo numba 5
+    
+    ---
+    
+    LOOK OVER THERE DISTRACTION GRAPH
+    
+    ---
+    
+    Dazzle *JAZZ HANDS*
+```
 
-### Support or Contact
+### You were THE finance Guru:
+```
+Merged in fin-tastic (pull request #)
+    
+WHATS UP YOUTUBE, remember to like and subscribe
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 🔌 Quick Plug
+Quick mic drop on the Chris Oliver like 😉 (and some pretty great content!) on your [tweet on noticed](https://twitter.com/Technickel3/status/1494540050012463127?t=3wnqiv6moZefLES-stUjZQ&s=19)
+
+### ✏️  WOTD
+You've had some... interesting inspirational words of wisdom. You must have been liked on the team, only chosen last 4 times!
+(Seriously man, you good?)
+<p align="center">
+<img width="431" alt="Screen Shot 2022-03-31 at 10 34 12 PM" src="https://user-images.githubusercontent.com/16821802/161184200-63adb294-5aa1-4f57-b6d1-dd7f44cb7dc8.png">
+</p>
+
+## 💥  Impact
+You've made some meaningful contributions during your time here
+# 1680
+commits to be exact.
+
+### Since Moving To Azure
+You've been a well oiled machine!
+<p align="center">
+<img width="165" alt="Screen Shot 2022-03-31 at 10 45 11 PM" src="https://user-images.githubusercontent.com/16821802/161185114-d058096b-7523-41ec-8931-9308b3eab8fa.png">
+</p>
+
+<h2 align="center">
+We're going to miss you and Bug's Booty on our calls Bradley 🐛 🍑 . Thank you for everything you've done for both our team and our Country 🍁 !
+</h2>
+<h2 align="center">
+🤝 All the best with your future endeavours from all of us at Harled 🤝 
+</h2
