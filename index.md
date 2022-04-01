@@ -1,4 +1,4 @@
-## A look back at your time here 🔭 
+## 🏆 A look back at your time here 🏆 
 
 ### It all started back in July 2021:
 ```
@@ -48,7 +48,7 @@ You've had some... interesting inspirational words of wisdom. You must have been
 
 ## 💥  Impact
 You've made some meaningful contributions during your time here
-# 1680
+### 1680
 commits to be exact.
 
 ### Since Moving To Azure
@@ -56,6 +56,41 @@ You've been a well oiled machine!
 <p align="center">
 <img width="165" alt="Screen Shot 2022-03-31 at 10 45 11 PM" src="https://user-images.githubusercontent.com/16821802/161185114-d058096b-7523-41ec-8931-9308b3eab8fa.png">
 </p>
+
+### Feedback by the numbers
+```
+  Feedback Closed: 545
+  Feedback Submitted: 29
+  Users helped: 
+  [
+     [Andrew Pohran, 194],
+     [James Carpenter, 69],
+     [Jonathan Loos, 55],
+     [Chris Young, 52],
+     [DWO Duty Watch, 33],
+     [Amanda Whalen, 17],
+     [Nicholas Fisette, 15],
+     [Mina Keriakos, 15],
+     [Brianna Knautz-Longstaff, 15],
+     [Ryan Shackelton, 15],
+     [Victoria Chatzikirou, 14],
+     [Heather Sutherland, 14],
+     [Grace Geng, 14],
+     [Francois Lachance-Morin, 11],
+     [Art Robiso, 11],
+     [Bradley Moggach, 11],
+     [Andrew Sheahan, 11]
+     ... and many more
+ ]
+```
+
+<h1 align="center">
+    Final Words Of Wisdom:
+</h1>
+
+```
+Ghost of DivWerx Past Quote here... 👻 
+```
 
 <h4 align="center">
 We're going to miss you and Bug's Booty on our calls Bradley 🐛 🍑 . Thank you for everything you've done for both our team and our Country 🍁 !
