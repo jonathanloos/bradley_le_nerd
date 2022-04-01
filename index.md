@@ -8,7 +8,7 @@ Date:   Wed Jul 8 14:31:11 2020 -0400
     Allow non-FG/SAR taskings to be deleted if squadron managed
 ```
 
-### You've built some pretty cool features🪄:
+### You've built some pretty cool features:
 ```
 Author: Bradley Leonard <bradley@example.ca>
 Date:   Thu Jul 30 12:59:32 2020 -0400
@@ -57,9 +57,10 @@ You've been a well oiled machine!
 <img width="165" alt="Screen Shot 2022-03-31 at 10 45 11 PM" src="https://user-images.githubusercontent.com/16821802/161185114-d058096b-7523-41ec-8931-9308b3eab8fa.png">
 </p>
 
-<h2 align="center">
+<h4 align="center">
 We're going to miss you and Bug's Booty on our calls Bradley 🐛 🍑 . Thank you for everything you've done for both our team and our Country 🍁 !
-</h2>
+</h4>
+<br/>
 <h2 align="center">
 🤝 All the best with your future endeavours from all of us at Harled 🤝 
-</h2
+</h2>
