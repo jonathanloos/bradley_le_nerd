@@ -85,6 +85,17 @@ You've been a well oiled machine!
 ```
 
 <h1 align="center">
+    Words From The Team:
+</h1>
+
+```
+    Jon: I've had the priviledge of working with Bradley for the last year and a half. I've watched him grow along with me, and can sy he's become an amazing friend. Best of luck buddy!
+    
+    
+    Any other messages you would like to share..
+```
+
+<h1 align="center">
     Final Words Of Wisdom:
 </h1>
 
