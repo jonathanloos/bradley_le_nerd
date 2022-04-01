@@ -90,7 +90,7 @@ You've been a well oiled machine!
 
 ```
     Jon: I've had the priviledge of working with Bradley for the last year and a half. I've watched him grow along with me, and can sy he's become an amazing friend. Best of luck buddy!
-    
+    Saad: Awesome mentor, always honest and geniune, plus respect for never doing a testing ticket :)
     
     Any other messages you would like to share..
 ```
