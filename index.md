@@ -103,7 +103,7 @@ You've been a well oiled machine!
 </h1>
 
 ```
-Ghost of DivWerx Past Quote here... 👻 
+... But does it work on mobile? - The Mobile Mastermind 
 ```
 
 <h4 align="center">
